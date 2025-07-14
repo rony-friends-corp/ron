@@ -1,0 +1,154 @@
+{
+  "personal_info": {
+    "name": "Khalekuzzaman Rony",
+    "title": "SQA Engineer",
+    "about": "A passionate SQA Engineer with 1.2 years of hands-on experience in delivering high-quality output. Skilled in manual testing, methodologies, and tools, I would like to work in collaborative environments and eager to grow, innovate, and contribute to impactful projects.",
+    "image": "https://iamrony.netlify.app/assets/img/Single.webp",
+    "logo": "https://iamrony.netlify.app/assets/img/Profile_picture.webp",
+    "resume": "https://iamrony.netlify.app/assets/pdf/Khalekuzzaman_Rony-SQA.pdf",
+    "total_experience": "1.2 years",
+    "tagline": "Delivering Quality Through Precision & Innovation",
+    "hero_description": "Experienced SQA Engineer specializing in manual and automated testing with a proven track record of ensuring software quality across diverse projects."
+  },
+  "skills": {
+    "sqa_skills": [
+      "Manual testing",
+      "Ad-hoc testing", 
+      "Exploratory testing",
+      "Functional testing",
+      "Smoke testing",
+      "Sanity testing",
+      "System testing",
+      "Regression testing",
+      "UI testing",
+      "Automated testing"
+    ],
+    "concepts": [
+      "SDLC",
+      "STLC", 
+      "Agile"
+    ],
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "Java",
+      "WordPress CMS"
+    ]
+  },
+  "tools": [
+    "Selenium",
+    "TestNG", 
+    "JMeter",
+    "Jira",
+    "Postman"
+  ],
+  "work_history": [
+    {
+      "company_name": "Friends Corp.",
+      "website": "https://teamfriends.co.jp/",
+      "duration": "April 2025 - Present",
+      "location": "Tokyo, Japan",
+      "job_type": "Remote",
+      "employment_type": "Full-time",
+      "designation": "QA Tester",
+      "responsibilities": [
+        "Manual testing (UI, Functional)",
+        "Regression test",
+        "E2E test", 
+        "Test case create & execution",
+        "Bug find, report & verify",
+        "Team work with Dev & Design team"
+      ]
+    },
+    {
+      "company_name": "Afnan Innovation Lab",
+      "website": "https://afnanilab.com/",
+      "duration": "June 2024 - April 2025",
+      "location": "NewYork, USA", 
+      "job_type": "Remote",
+      "employment_type": "Full-time",
+      "designation": "Junior SQA Engineer",
+      "responsibilities": [
+        "Manual testing (UI, Functional)",
+        "Regression test",
+        "E2E test",
+        "Test case create & execution", 
+        "Bug find, report & verify",
+        "Team work with Dev & Design team"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor Degree",
+      "major": "Information & Communication Engineering (ICE)",
+      "university": "University of Rajshahi",
+      "location": "Bangladesh",
+      "duration": "2018-2023",
+      "cgpa": "3.27/4.00"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "major": "Science",
+      "college": "Bogra Cantonment Public School & College",
+      "location": "Bogra, Bangladesh",
+      "duration": "2015-2017",
+      "cgpa": "5.00/5.00"
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "major": "Science", 
+      "school": "Birganj Pilot Govt. High School",
+      "location": "Dinajpur, Bangladesh",
+      "duration": "2011-2015",
+      "cgpa": "5.00/5.00"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Software Testing",
+      "url": "https://drive.google.com/file/d/1MQvMpuC4u7HmgcMKPYjf03hv3j9wBXr_/view?usp=sharing",
+      "vendor": "Great Learning Academy",
+      "year": "2024"
+    },
+    {
+      "name": "MySQL",
+      "url": "https://www.testdome.com/certificates/f8560502715e4a359b8cac89b1c3310a",
+      "vendor": "Great Learning Academy", 
+      "year": "2024"
+    }
+  ],
+  "courses_trainings": [
+    {
+      "name": "Software Quality Assurance (SQA)",
+      "platform": "Udemy",
+      "year": "2024",
+      "topics": "SQA Basics • Testing Models • Testing Life Cycle • Manual Testing • Automated Testing"
+    },
+    {
+      "name": "Web Development with HTML, CSS, JavaScript",
+      "platform": "Udemy",
+      "year": "2024", 
+      "topics": "HTML · CSS · JavaScript • Bootstrap · SAAS"
+    },
+    {
+      "name": "Bootstrap 5 Course - The Complete Guide Step by Step (2024)",
+      "platform": "Udemy",
+      "year": "2024",
+      "topics": "HTML · CSS · Bootstrap"
+    }
+  ],
+  "contacts": {
+    "phone": "+880 1792992245",
+    "website": "https://iamrony.netlify.app",
+    "location": "Dinajpur, Bangladesh",
+    "facebook": "https://www.facebook.com/khalekuzzamanrony1",
+    "linkedin": "https://www.linkedin.com/in/khalekuzzamanrony",
+    "instagram": "https://www.instagram.com/khalekuzzamanrony1/",
+    "github": "https://github.com/khalakuzamanrony/",
+    "email": "khalekuzzamanrony3@gmail.com"
+  }
+}
+
